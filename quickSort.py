@@ -19,7 +19,7 @@ def partition(myList, first, last):
         while left <= right and pivot <= myList[left]:
             left += 1
 
-        while left <= right and pivot >+ myList[right]:
+        while left <= right and pivot >= myList[right]:
             right -= 1
 
         if left > right:
