@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# change user
+# change user again
 class Solution(object):
     def containsDuplicate(self, nums):
 
