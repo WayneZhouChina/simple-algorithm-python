@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Thanks for 九章算法
 
 class Solution(object):
 	def myAtoi(self, str):
